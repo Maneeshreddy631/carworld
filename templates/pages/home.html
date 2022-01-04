@@ -12,7 +12,7 @@
                     <h3>Wow Factor Standard</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
                         free approach in finding your dream car.</h5>
-                    <a href="services.html" class="btn btn-lg btn-theme">Read more</a>
+                    <a href="{% url 'services' %}" class="btn btn-lg btn-theme">Read more</a>
                 </div>
             </div>
             <div class="carousel-item banner-max-height item-bg">
@@ -21,7 +21,7 @@
                     <h3>Explore Your Dream Car</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
                         free approach in finding your dream car.</h5>
-                    <a href="#" class="btn btn-lg btn-theme">Read more</a>
+                    <a href="{% url 'services' %}" class="btn btn-lg btn-theme">Read more</a>
                 </div>
             </div>
             <div class="carousel-item banner-max-height item-bg">
@@ -30,7 +30,7 @@
                     <h3>We Are Wheel</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
                         free approach in finding your dream car.</h5>
-                    <a href="#" class="btn btn-lg btn-theme">Read more</a>
+                    <a href="{% url 'services' %}"class="btn btn-lg btn-theme">Read more</a>
                 </div>
             </div>
         </div>
@@ -933,37 +933,14 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-12">
-                <a href="contact.html" class="btn btn-md">Get in Touch</a>
+                <a href="{% url 'contact' %}" class="btn btn-md">Get in Touch</a>
             </div>
         </div>
     </div>
 </div>
 <!-- Intro section end -->
 
-<!-- Footer start -->
-<footer class="footer">
-    
-    <div class="sub-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <p class="copy">© 2020 <a href="#">Carzone Corp.</a> All Rights Reserved.</p>
-                </div>
-                <div class="col-lg-4">
-                    <div class="social-list-2">
-                        <ul>
-                            <li><a href="#" class="facebook-bg"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="twitter-bg"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#" class="google-bg"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#" class="linkedin-bg"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Footer end -->
+
 
 <!-- Full Page Search -->
 <div id="full-page-search">
