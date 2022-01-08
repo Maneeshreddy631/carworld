@@ -27,11 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 LOGIN_REDIRECT_URL = 'dashboard'
-
+SOCIAL_AUTH_REDIRECT_IS_HTTPS = True
 
 
 INSTALLED_APPS = [
-
     'cars.apps.CarsConfig',
     'pages.apps.PagesConfig',
     'accounts.apps.AccountsConfig',
