@@ -12,7 +12,7 @@
         <div class="breadcrumb-areas">
             <h1>{{single_car.car_title}}</h1>
             <ul class="breadcrumbs">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="{% url 'home' %}">Home</a></li>
                 <li class="active">{{single_car.car_title}}</li>
             </ul>
         </div>
@@ -38,7 +38,7 @@
                             </h6>
                         </div>
                         <div class="pull-right">
-                            <h3><span>$ {{single_car.price | intcomma}}</span></h3>
+                            <h3><span>₹ {{single_car.price | intcomma}}</span></h3>
                         </div>
                     </div>
                     <div id="carDetailsSlider" class="carousel car-details-sliders slide mb-40">
