@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '2-f)rbrint!fl$_!besk#c#g@#9iq7pia3^&g9)0^nv%v!ebi&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['sheltered-fortress-05218.herokuapp.com', 'carwheelsapp.co', 'www.carwheelsapp.co']
+ALLOWED_HOSTS = []
 LOGIN_REDIRECT_URL = 'dashboard'
 SOCIAL_AUTH_REDIRECT_IS_HTTPS = True
 
@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ckeditor',
-    'ckeditor_uploader',
     'django.contrib.humanize',
     'django.contrib.sites',
     'allauth',
