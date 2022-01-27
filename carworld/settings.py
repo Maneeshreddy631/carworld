@@ -97,7 +97,7 @@ WSGI_APPLICATION = 'carworld.wsgi.application'
 #         'HOST': 'localhost',
 #     }
 # }
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Manish@631@localhost/carworld_db'
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Manish@631@localhost/carworld_db')}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
