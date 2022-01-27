@@ -1,0 +1,1157 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "Mahindra XUV300",
+        "state": "KA",
+        "city": "Banglore",
+        "color": "Black",
+        "model": "W8 Petrol 2020",
+        "year": 2017,
+        "condition": "goot",
+        "price": 950000,
+        "description": "<p>This is a used Mahindra XUV300 W8 Petrol 2020 Car model with Petrol variant. It is a SUV Car The specifications of the Car include engine displacement 1197 cc , fuel tank capacity of 42 litres, maximum power of 109 bhp @ 5000 rpm , maximum torque of 200 Nm @ 2000 rpm and transmission is Manual. If this second hand vehicle goes hand in hand with your requirement, comfort and affordability, then it is the best option for you.</p>",
+        "car_photo": "photos/2022/01/05/xuv300-1_B0SpK3H.jpg",
+        "car_photo_1": "photos/2022/01/05/xuv300-2_mgLW8Xi.jpg",
+        "car_photo_2": "photos/2022/01/05/xuv300-3_jwfiymK.jpg",
+        "car_photo_3": "photos/2022/01/05/xuv300-4_2s2hGZd.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags",
+        "body_style": "SUV",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "interior": "White",
+        "Kilometers": 15000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "420392271",
+        "milage": 14,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-01-05T15:56:47"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "Tata Nano Twist",
+        "state": "AP",
+        "city": "Kurnool",
+        "color": "White",
+        "model": "XTA 2017",
+        "year": 2018,
+        "condition": "Good",
+        "price": 280000,
+        "description": "<p>This is a used Tata Nano Twist XTA 2017 Car model with Petrol variant. It is a Hatchback Car The specifications of the Car include engine displacement 624 cc , fuel efficiency level 25.4 kmpl , fuel tank capacity of 32 litres, maximum power of 37 bhp @ 5500 RPM , maximum torque of 51 Nm @ 4000 RPM</p>",
+        "car_photo": "photos/2022/01/05/nano3.jpg",
+        "car_photo_1": "photos/2022/01/05/nano1.jpg",
+        "car_photo_2": "photos/2022/01/05/nano2.jpg",
+        "car_photo_3": "photos/2022/01/05/nano5.jpeg",
+        "car_photo_4": "",
+        "features": "Audio Interface,Seat Heating,Power Steering,Direct Fuel Injection",
+        "body_style": "Hatchback",
+        "engine": "624 CC",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "Kilometers": 44000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "xxxx123333",
+        "milage": 21,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-01-05T17:31:18"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "Maruti Wagon R",
+        "state": "CH",
+        "city": "raigarh",
+        "color": "Silver",
+        "model": "2016",
+        "year": 2017,
+        "condition": "Good",
+        "price": 335000,
+        "description": "<p>This is a used Maruti Suzuki Wagon R VXi 2016 Car model with Petrol variant. It is a Hatchback Car The specifications of the Car include engine displacement 998 cc , fuel tank capacity of 35 litres, maximum power of 67 bhp @ 6200 RPM , maximum torque of 90 Nm @ 3500 RPM</p>",
+        "car_photo": "photos/2022/01/05/wagon-1.jpg",
+        "car_photo_1": "photos/2022/01/05/wagon-2.jpg",
+        "car_photo_2": "photos/2022/01/05/wagon-3.jpg",
+        "car_photo_3": "photos/2022/01/05/wagon-5.jpg",
+        "car_photo_4": "photos/2022/01/05/wagon-4.jpg",
+        "features": "Airbags,Alarm System,Direct Fuel Injection",
+        "body_style": "Car",
+        "engine": "998 CC",
+        "transmission": "Manual",
+        "interior": "Brown",
+        "Kilometers": 33000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "xyaw34234",
+        "milage": 14,
+        "fuel_type": "Petrol",
+        "no_of_owners": "3",
+        "is_featured": false,
+        "created_date": "2022-01-05T17:38:18"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "Mahindra Thar",
+        "state": "TN",
+        "city": "chennai",
+        "color": "Green",
+        "model": "2016",
+        "year": 2017,
+        "condition": "Excellent",
+        "price": 167000,
+        "description": "<p>This is a used Mahindra Thar CRDe 4X4 BS IV 2016 Car model with Diesel variant. It is a SUV Car The specifications of the Car include engine displacement 2498 cc , fuel efficiency level 13 kmpl , fuel tank capacity of 45 litres, maximum power of 105 bhp @ 3800 RPM , maximum torque of 247 Nm @ 1800 RPM</p>",
+        "car_photo": "photos/2022/01/05/zeep-2.jpeg",
+        "car_photo_1": "photos/2022/01/05/zeep-1.jpeg",
+        "car_photo_2": "photos/2022/01/05/zeep-3.jpeg",
+        "car_photo_3": "photos/2022/01/05/zeep-4.jpeg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Alarm System,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "Convert Top AT",
+        "engine": "1997 CC",
+        "transmission": "Manual",
+        "interior": "Grey",
+        "Kilometers": 7000,
+        "doors": "3",
+        "passengers": 4,
+        "vin_no": "werr423423",
+        "milage": 13,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-01-05T17:47:55"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "Mercedes-Benz GLE Class 250d",
+        "state": "KA",
+        "city": "Belgaum",
+        "color": "White",
+        "model": "2016",
+        "year": 2017,
+        "condition": "Good",
+        "price": 4300000,
+        "description": "<p>This&nbsp;Mercedes-Benz GLE Class 250d is an all-wheel drive 4 door with 5 seats, powered by a 2.1L DIESEL TURBO 4 engine that has 150 kW of power (at 3800 rpm) and 500 Nm of torque (at 1600 rpm) via a Nine-speed Automatic G-Tronic. MERCEDES-BENZ claims the GLE 250 d 4MATIC uses 6L/100km of Diesel.</p>",
+        "car_photo": "photos/2022/01/05/benz-4_1dJe3l8.webp",
+        "car_photo_1": "photos/2022/01/05/benz-2_uWqu2b2.webp",
+        "car_photo_2": "photos/2022/01/05/benz-1_D2POUmj.webp",
+        "car_photo_3": "photos/2022/01/05/benz-4_tCI2Ynn.webp",
+        "car_photo_4": "photos/2022/01/05/benz-5_RnsdR9D.webp",
+        "features": "Cruise Control,Air Conditioning,ParkAssist,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "Premium",
+        "engine": "2143 CC",
+        "transmission": "Manual",
+        "interior": "White",
+        "Kilometers": 23000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "qwee121212",
+        "milage": 17,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-01-05T18:31:31"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Ramesh",
+        "last_name": "Kumar",
+        "designation": "Founder",
+        "photo": "photos/2022/01/03/avatar-11_7G48Y7G.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-01-03T17:26:21.285"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Arun",
+        "last_name": "Gowda",
+        "designation": "Creative Director",
+        "photo": "photos/2022/01/03/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-01-03T17:27:55.248"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Prudhvi",
+        "last_name": "Reddy",
+        "designation": "co-founder",
+        "photo": "photos/2022/01/03/avatar-3.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-01-03T17:29:23.180"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Paul",
+        "designation": "CEO",
+        "photo": "photos/2022/01/03/avatar-1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-01-03T17:29:53.603"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Suma",
+        "last_name": "Gowda",
+        "designation": "Supporting Manager",
+        "photo": "photos/2022/01/03/avatar-2.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-01-03T17:31:49.096"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Maneesh",
+        "last_name": "Reddy",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "Mahindra Thar",
+        "city": "banglore",
+        "state": "Karnataka",
+        "email": "maneeshyellala@gmail.com",
+        "phone": "",
+        "message": "i want to buy this",
+        "user_id": 1,
+        "create_date": "2022-01-09T17:48:52.561"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Jayanth",
+        "last_name": "aluru",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "Mahindra XUV300",
+        "city": "banglore",
+        "state": "KA",
+        "email": "jayanthaluru@gmail.com",
+        "phone": "123456789",
+        "message": "i love this car , i would like to test drive this",
+        "user_id": 7,
+        "create_date": "2022-01-09T18:23:33.469"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$htXSM6qMhWFa$yI3EyFRRhoKzDeNP43PwNooBh3QklVyMshbSnlBEJ5w=",
+        "last_login": "2022-01-26T16:03:37.971",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Maneesh",
+        "last_name": "Reddy",
+        "email": "maneeshyellala@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-01-02T16:20:14",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$AnJlaqz7U3lH$SnVTII0350VzlmYYhMkOU33uztTrgtGV7lLrJtbX31g=",
+        "last_login": "2022-01-12T15:34:40.061",
+        "is_superuser": false,
+        "username": "jayanth",
+        "first_name": "Jayanth",
+        "last_name": "aluru",
+        "email": "jayanthaluru@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-09T18:16:05.836",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!F6bWn1p5ApnVXsTC9As1Y3ss1DqiYz2pj5RxghuX",
+        "last_login": "2022-01-12T15:34:19.687",
+        "is_superuser": false,
+        "username": "manish",
+        "first_name": "Manish",
+        "last_name": "Yellala",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-12T15:30:45.353",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "q6e61wuqn61d5v3r3saffqpukv2jya26",
+    "fields": {
+        "session_data": "ZTk5NDA3ZjY5NjdkYWUzNmU4MDc4YmZkMmVhMjE0MmY1MGI0NTE2OTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI0NTdjY2Y0YTdiZjZmNDYzMGY3MDU4OTgxMDEwNDJlMTU4MjA3YWIyIn0=",
+        "expire_date": "2022-01-23T17:30:31.185"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "889910755005241",
+        "secret": "c691bf4b5e693962a110d64014032bfd",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "773522318946-n4lllclsh4u6jl8o7nijkircj3mrpje4.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "manish"
+        ],
+        "provider": "facebook",
+        "uid": "1729835413885555",
+        "last_login": "2022-01-12T15:34:19.645",
+        "date_joined": "2022-01-12T15:30:45.363",
+        "extra_data": "{\"id\": \"1729835413885555\", \"name\": \"Manish Yellala\", \"first_name\": \"Manish\", \"last_name\": \"Yellala\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 3,
+    "fields": {
+        "app": 1,
+        "account": 3,
+        "token": "EAAMpXn5vEzkBAHpDBOH5aD6m67fv3pAsUpp6Le3KSCZC9ibLBfgwD0bqmYbwKVmQZATVCIVE86zvZBjs93ZBgJQ39Il6alp1RlJiZBDKoCS7zVukrImjHL0hyAFKnNYbUeMO4CkRLoiZCNrdtLQC8OkWTryKnFxCJyD19PNdZBZCdfd83ZAqpo11JDsuuGV4hX2SpcpXNLZBidu3M2zGS0HMNq",
+        "token_secret": "",
+        "expires_at": null
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-01-02T16:46:21.909",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-01-02T16:50:48.669",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Yellala Maneesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-01-03T17:00:39.940",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Yellala Maneesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-01-03T17:24:03.446",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Yellala Maneesh",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-01-03T17:26:21.287",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Ramesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-01-03T17:27:55.249",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Arun",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-01-03T17:29:23.181",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Prudhvi",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-01-03T17:29:53.604",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-01-03T17:31:49.098",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Suma",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-01-03T20:10:35.016",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Suma",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-01-03T23:00:12.311",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "gelooq",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-01-03T23:00:26.616",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "gelooq",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-01-05T15:59:01.399",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-01-05T15:59:08.522",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-01-05T16:03:35.378",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car title\", \"State\", \"City\", \"Color\", \"Model\", \"Year\", \"Condition\", \"Price\", \"Description\", \"Car photo 1\", \"Car photo 2\", \"Car photo 3\", \"Body style\", \"Engine\", \"Transmission\", \"Interior\", \"Kilometers\", \"Doors\", \"Passengers\", \"Vin no\", \"Milage\", \"Fuel type\", \"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-01-05T17:37:53.229",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-01-05T17:46:10.816",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-01-05T17:53:40.855",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-01-05T18:32:24.815",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Car object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-01-05T18:46:03.078",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Mahindra Thar",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-01-05T21:02:13.213",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Maruti Wagon R",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-01-05T21:20:09.300",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Mahindra Thar",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-01-05T21:20:09.305",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Maruti Wagon R",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-01-05T21:20:09.309",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Tata Nano Twist",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-01-07T16:16:57.405",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Mercedes-Benz GLE Class 250d",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-01-07T16:17:16.816",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Mercedes-Benz GLE Class 250d",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-01-08T22:30:42.243",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-01-08T22:31:34.795",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-01-08T23:03:57.026",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-01-08T23:41:32.486",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Client id\", \"Secret key\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-01-09T17:34:22.497",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-01-09T17:55:07.228",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "cnwc",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-01-09T17:55:07.258",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "joe",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-01-09T17:55:07.259",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "manish",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-01-09T17:55:07.260",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "manish6",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-01-09T17:57:03.847",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "user1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-01-09T17:57:36.670",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "user1",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-01-09T18:13:31.005",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-01-09T18:21:20.633",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "user1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2022-01-09T18:21:34.736",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2022-01-11T19:21:24.219",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Maruti Wagon R",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2022-01-26T12:09:00.284",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "jayanthaluru@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
