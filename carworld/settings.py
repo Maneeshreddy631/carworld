@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '2-f)rbrint!fl$_!besk#c#g@#9iq7pia3^&g9)0^nv%v!ebi&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['sheltered-fortress-05218.herokuapp.com', 'carwheelsapp.co', 'www.carwheelsapp.co']
 LOGIN_REDIRECT_URL = 'dashboard'
