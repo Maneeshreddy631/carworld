@@ -48,7 +48,7 @@ def contact(request) :
         phone = request.POST['phone']
         message = request.POST['message']
 
-        email_subject = 'You have a new message from Carworld website regarding ' + subject
+        email_subject = 'You have a new message from Crazy Wheels website regarding ' + subject
         message_body = 'Name: ' + name + '. Email: ' + email + '. Phone: ' + phone + '. Message: ' + message
 
         admin_info = User.objects.get(is_superuser=True)

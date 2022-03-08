@@ -12,17 +12,17 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 import dj_database_url
-# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
+
+
+
 SECRET_KEY = '2-f)rbrint!fl$_!besk#c#g@#9iq7pia3^&g9)0^nv%v!ebi&'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = True
 
 ALLOWED_HOSTS = []
@@ -85,19 +85,18 @@ TEMPLATES = [
 WSGI_APPLICATION = 'carworld.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'carworld_db',
-#         'USER': 'postgres',
-#         'PASSWORD': 'Manish@631',
-#         'HOST': 'localhost',
-#     }
-# }
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Manish@631@localhost/carworld_db')}
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'carworld_db',
+        'USER': 'postgres',
+        'PASSWORD': 'Manish@631',
+        'HOST': 'localhost',
+    }
+}
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
