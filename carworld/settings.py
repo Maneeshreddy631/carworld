@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     #providers we shouldspecify 
     'allauth.socialaccount.providers.facebook',
     'allauth.socialaccount.providers.google',
+    'ckeditor_uploader'
 
 ]
 
